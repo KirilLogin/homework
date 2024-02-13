@@ -12,6 +12,6 @@
 
 4. Блок-схема:
 
-(![diagram (1)-1](https://github.com/KirilLogin/homework/assets/153850147/3882f326-4cc8-4063-ace8-1eaa18282c70)
+![diagram (1)-1](https://github.com/KirilLogin/homework/assets/153850147/3882f326-4cc8-4063-ace8-1eaa18282c70)
 
 
